@@ -15,7 +15,7 @@
 	"description": "How fast am I going to learn this?",
 	"keywords": ["freecodecamp", "learning", "nodejs", "backend"],
 	"author": "Hao Luu",
-	"license": "ISC",
+	"license": "MIT",
 	"bugs": {
 		"url": "https://github.com/freeCodeCamp/boilerplate-npm/issues"
 	},
