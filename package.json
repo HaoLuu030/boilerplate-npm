@@ -13,7 +13,7 @@
 	},
 	"version": "1.0.0",
 	"description": "How fast am I going to learn this?",
-	"keywords": [],
+	"keywords": ["freecodecamp", "learning", "nodejs", "backend"],
 	"author": "Hao Luu",
 	"license": "ISC",
 	"bugs": {
