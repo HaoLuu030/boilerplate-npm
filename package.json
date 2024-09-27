@@ -1,24 +1,28 @@
 {
-	"name": "fcc-learn-npm-package-json",
-	"dependencies": {
-		"express": "^4.14.0",
-		"@freecodecamp/example": "^1.2.13"
-	},
-	"main": "server.js",
-	"scripts": {
-		"start": "node server.js"
-	},
-	"repository": {
-		"type": "git",
-		"url": "git+https://github.com/freeCodeCamp/boilerplate-npm.git"
-	},
-	"version": "1.0.0",
-	"description": "How fast am I going to learn this?",
-	"keywords": ["freecodecamp", "learning", "nodejs", "backend"],
-	"author": "Hao Luu",
-	"license": "MIT",
-	"bugs": {
-		"url": "https://github.com/freeCodeCamp/boilerplate-npm/issues"
-	},
-	"homepage": "https://github.com/freeCodeCamp/boilerplate-npm#readme"
+  "name": "fcc-learn-npm-package-json",
+  "dependencies": {
+    "express": "^4.14.0"
+  },
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/freeCodeCamp/boilerplate-npm.git"
+  },
+  "version": "1.0.0",
+  "description": "How fast am I going to learn this?",
+  "keywords": [
+    "freecodecamp",
+    "learning",
+    "nodejs",
+    "backend"
+  ],
+  "author": "Hao Luu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/freeCodeCamp/boilerplate-npm/issues"
+  },
+  "homepage": "https://github.com/freeCodeCamp/boilerplate-npm#readme"
 }
